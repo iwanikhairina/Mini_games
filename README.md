@@ -40,8 +40,3 @@ puzzle_siska/
 - Ukuran foto bebas, akan otomatis disesuaikan
 - Game responsif untuk HP dan komputer
 - Untuk ganti nama file foto, edit bagian `LEVELS` di dalam `index.html`
-
-## Tips Musik Gratis
-
-- [pixabay.com/music](https://pixabay.com/music/) — banyak musik bebas royalti
-- [freesound.org](https://freesound.org) — koleksi suara & musik gratis
